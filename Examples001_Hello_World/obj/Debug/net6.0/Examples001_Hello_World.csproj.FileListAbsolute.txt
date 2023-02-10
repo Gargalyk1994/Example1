@@ -1,0 +1,15 @@
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Examples(1 lesson)\Examples001_Hello_World\bin\Debug\net6.0\Examples001_Hello_World.exe
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Examples(1 lesson)\Examples001_Hello_World\bin\Debug\net6.0\Examples001_Hello_World.deps.json
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Examples(1 lesson)\Examples001_Hello_World\bin\Debug\net6.0\Examples001_Hello_World.runtimeconfig.json
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Examples(1 lesson)\Examples001_Hello_World\bin\Debug\net6.0\Examples001_Hello_World.dll
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Examples(1 lesson)\Examples001_Hello_World\bin\Debug\net6.0\Examples001_Hello_World.pdb
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Examples(1 lesson)\Examples001_Hello_World\obj\Debug\net6.0\Examples001_Hello_World.csproj.AssemblyReference.cache
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Examples(1 lesson)\Examples001_Hello_World\obj\Debug\net6.0\Examples001_Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Examples(1 lesson)\Examples001_Hello_World\obj\Debug\net6.0\Examples001_Hello_World.AssemblyInfoInputs.cache
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Examples(1 lesson)\Examples001_Hello_World\obj\Debug\net6.0\Examples001_Hello_World.AssemblyInfo.cs
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Examples(1 lesson)\Examples001_Hello_World\obj\Debug\net6.0\Examples001_Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Examples(1 lesson)\Examples001_Hello_World\obj\Debug\net6.0\Examples001_Hello_World.dll
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Examples(1 lesson)\Examples001_Hello_World\obj\Debug\net6.0\refint\Examples001_Hello_World.dll
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Examples(1 lesson)\Examples001_Hello_World\obj\Debug\net6.0\Examples001_Hello_World.pdb
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Examples(1 lesson)\Examples001_Hello_World\obj\Debug\net6.0\Examples001_Hello_World.genruntimeconfig.cache
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Examples(1 lesson)\Examples001_Hello_World\obj\Debug\net6.0\ref\Examples001_Hello_World.dll
